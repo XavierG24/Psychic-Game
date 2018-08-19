@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+    color: white;
+}
+header {
+    text-align: center;
+    font-family: 'Bigelow Rules', cursive;
+    color:purple;
+    font-size: 70px;
+}
+.game {
+    font-size: 30px;
+    padding-left: 200px;
+}
